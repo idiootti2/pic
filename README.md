@@ -1,2 +1,2 @@
-# pictres
+# pictures
 picgo
